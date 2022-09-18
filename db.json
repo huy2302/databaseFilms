@@ -1,0 +1,34 @@
+{
+    "films": [
+      {
+        "id": 1,
+        "title": "Spider-Man: No Way Home - 2021",
+        "link": "https://2embed.org/embed/tt10872600"
+      },
+      {
+        "id": 2,
+        "title": "Spider-Man-2002",
+        "link": "https://2embed.org/embed/tt0145487"
+      },
+      {
+        "id": 3,
+        "title": "Spider-Man 2 - 2004",
+        "link": "https://2embed.org/embed/tt0316654"
+      },
+      {
+        "id": 4,
+        "title": "Spider-Man 3 - 2007",
+        "link": "https://2embed.org/embed/tt0413300"
+      },
+      {
+        "id": 5,
+        "title": "Spider-Man: Far From Home - 2019",
+        "link": "https://2embed.org/embed/tt6320628"
+      },
+      {
+        "id": 6,
+        "title": "The Amazing Spider-Man 2 - 2014",
+        "link": "https://2embed.org/embed/tt1872181"
+      }
+    ]
+  }
